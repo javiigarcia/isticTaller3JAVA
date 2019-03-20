@@ -1,2 +1,4 @@
 # isticTaller3JAVA
-taller 3
+ repositorio con los trabajos realizados en clase.
+
+# cada clase una carpeta
