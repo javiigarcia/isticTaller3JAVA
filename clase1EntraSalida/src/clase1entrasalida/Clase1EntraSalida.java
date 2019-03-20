@@ -5,6 +5,8 @@
  */
 package clase1entrasalida;
 
+import java.util.Scanner;
+
 /**
  *
  * @author PC
@@ -22,6 +24,14 @@ public class Clase1EntraSalida {
         edad = 33 ;
         System.out.println("Su edad es " + edad);
 
+        Scanner miscanner ;
+        miscanner = new Scanner (System.in);
+
+        System.out.println("Por favor ingrese su edad");
+        edad = miscanner.nextInt();
+         System.out.println("Su edad es " + edad);
+        
+        
         
         
         
